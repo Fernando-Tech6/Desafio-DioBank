@@ -6,12 +6,25 @@ namespace Dio.Bank
     {
         static void Main(string[] args)
         {
-            Conta contaFernando = new Conta(TipoConta.PessoaFisica,"Fernando",500,562);
+            var contaFernando = new Conta(TipoConta.PessoaFisica,"Fernando",500,562);
 
-
-
-            Console.WriteLine(contaFernando);
+            
            
+           
+        }
+
+        private static string PainelUsuario()
+        {
+            Console.WriteLine("Dio Bank sempre ao seu lado!");
+            Console.WriteLine("Informe a opção desejada");
+            Console.WriteLine("Listar Contas");
+            Console.WriteLine("Inserir nova conta");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            
         }
     }
 }
