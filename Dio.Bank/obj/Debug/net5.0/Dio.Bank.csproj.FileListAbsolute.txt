@@ -1,0 +1,16 @@
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Dio-Banco\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
