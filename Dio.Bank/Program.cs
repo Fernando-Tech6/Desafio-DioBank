@@ -8,10 +8,9 @@ namespace Dio.Bank
         static List<Conta> listaContas = new List<Conta>(); 
         static void Main(string[] args)
         {
-            
+
             string opcao = PainelUsuario();
-            
-           
+                
            while (opcao.ToUpper() != "X")
             {
                 switch(opcao)
@@ -123,16 +122,12 @@ namespace Dio.Bank
             Console.Write("Digite o saldo inicial: ");
             double novoSaldo = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Digite o crédito: ");
-            double novoCredito = Convert.ToDouble(Console.ReadLine());
-
             Conta novaConta = new Conta(tipoConta: (TipoConta)novoTipoConta,   // posso colocar um argumento nomeado, onde eu nomeio e separo por: + um argumento.
                                         nome: novoNome,
-                                        saldo: novoSaldo,
-                                        credito: novoCredito
+                                        saldo: novoSaldo
                                         );
 
-            listaContas.Add(novaConta);
+            listaContas.Add(novaConta );
         }
 
         private static string PainelUsuario()

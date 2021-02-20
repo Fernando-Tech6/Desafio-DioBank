@@ -13,15 +13,37 @@ namespace Dio.Bank
         private TipoConta tipoConta { get; set; }
         private string Nome { get; set; }
         private double Saldo { get; set; }
-        private double Credito { get; set; }
+        private double _credito;
+
+        private double Credito
+        {
+            /* Criando uma propriedade com algumas condições para o crédito ser fixo ao criar uma nova conta,
+              com diferenças para pessoa fisica e juridica.  */
+
+            get
+            {
+                return _credito;
+            }
+            set
+            {
+                if (tipoConta == TipoConta.PessoaFisica)
+                {
+                    _credito = 200;
+                }
+                else
+                {
+                    _credito = 500;
+                }
+            }
+        }
 
 
-        public Conta(TipoConta tipoConta, string nome, double saldo, double credito)
+        public Conta(TipoConta tipoConta, string nome, double saldo)
         {
             this.tipoConta = tipoConta;
-            Nome = nome;
+            Nome = nome; 
             Saldo = saldo;
-            Credito = credito;
+            Credito = _credito;
         }
 
         public bool Sacar(double valorSaque)
@@ -55,7 +77,7 @@ namespace Dio.Bank
         }
 
         public override string ToString()
-        {   // Sobreescrevendo o metodo para acessar as informações do objeto no console.
+        {   // Sobrescrevendo o metodo para acessar as informações do objeto no console.
 
             string retorno = "";
             retorno += "Tipo da Conta: " + tipoConta + " | ";
