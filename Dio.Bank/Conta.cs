@@ -66,6 +66,12 @@ namespace Dio.Bank
 
         }
 
+        public void ContaSaldo(Conta conta)  
+        {
+            Console.WriteLine($"O saldo atual da conta de {Nome} é de R$ {conta.Saldo}" +
+                $" com crédito de  {conta.Credito}" );
+        }
+
     }
 
     
